@@ -1,7 +1,7 @@
 {
   "name": "apiatic",
-  "version": "0.0.1",
-  "description": "The All-in-One Low-Code Platform for Building APIs, Dashboards, and Internal Tools",
+  "version": "0.0.5",
+  "description": "APIatic: The All-in-One Low-Code Platform for Building APIs, Dashboards, and Internal Tools.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
